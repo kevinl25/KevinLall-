@@ -8,5 +8,3 @@ Also a dedicated electronic music aficionado and lifelong learner who enjoys exp
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kevinl25 alt=kevinl25 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=kevinl25&show_icons=true&include_all_commits=true)](https://github.com/kevinl25/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinl25&layout=compact)](https://github.com/kevinl25/github-readme-stats)
